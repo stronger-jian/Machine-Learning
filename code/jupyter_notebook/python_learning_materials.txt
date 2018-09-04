@@ -1,0 +1,1 @@
+python  numpy.seed  https://blog.csdn.net/qq_36142336/article/details/78797190
